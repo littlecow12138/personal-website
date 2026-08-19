@@ -1,6 +1,6 @@
-# 林晚 · 摄影师个人网站
+# 艾未 · 摄影师个人网站模板
 
-基于 shadcn/ui Next.js 模板（preset `b5rR41Mtnc`）搭建的摄影师作品集站点。
+基于 shadcn/ui Next.js 模板（preset `b5rR41Mtnc`）搭建的摄影师作品集通用模板。姓名与邮箱均为占位，可在 `lib/site.ts` 中替换为本人信息。
 
 ## 字体
 

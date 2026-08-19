@@ -1,8 +1,8 @@
 export const site = {
-  name: "林晚",
-  nameEn: "Lin Wan",
+  name: "艾未",
+  nameEn: "Avery Moss",
   role: "摄影师",
-  email: "hello@linwan.studio",
+  email: "hello@example.com",
   location: "上海 / 可差旅",
   tagline: "用光影记录人与地方之间的安静时刻。",
   about: {
