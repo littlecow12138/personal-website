@@ -1,21 +1,27 @@
-# Next.js template
+# 林晚 · 摄影师个人网站
 
-This is a Next.js template with shadcn/ui.
+基于 shadcn/ui Next.js 模板（preset `b5rR41Mtnc`）搭建的摄影师作品集站点。
 
-## Adding components
+## 字体
 
-To add components to your app, run the following command:
+- **标题**：Syne（`--font-heading`）
+- **正文**：Outfit（`--font-sans`）
+
+## 本地开发
 
 ```bash
-npx shadcn@latest add button
+pnpm install
+pnpm dev
 ```
 
-This will place the ui components in the `components` directory.
+## 占位图
 
-## Using components
+所有图片目前为 picsum 占位，替换清单见 [PLACEHOLDERS.md](./PLACEHOLDERS.md)。
 
-To use the components in your app, import them as follows:
+## 页面结构
 
-```tsx
-import { Button } from "@/components/ui/button";
-```
+1. Hero — 全屏主视觉 + 姓名与预约入口  
+2. 简介 — 拍摄题材与工作方式  
+3. 作品 — 精选网格  
+4. 定价 — 三种档期报价（作品与联系之间）  
+5. 联系 — 邮件链接
