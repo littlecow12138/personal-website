@@ -19,4 +19,4 @@
 2. 更新 `lib/site.ts` 中的 `placeholderSrc` 调用，或改为本地路径 / CMS URL。
 3. 同步修改各处 `alt` 文案，去掉「占位」字样。
 
-文案与邮箱（`hello@linwan.studio`）、姓名「林晚」亦为示例，请在 `lib/site.ts` 中一并替换。
+文案与邮箱（`hello@example.com`）、姓名「艾未」/ Avery Moss 均为通用模板占位，请在 `lib/site.ts` 中一并替换为本人信息。
